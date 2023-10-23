@@ -1,3 +1,5 @@
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Embedder-Policy: require-corp
 ## Unity ##
 
 *.cs diff=csharp text
